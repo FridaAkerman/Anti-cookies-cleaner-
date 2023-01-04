@@ -1,0 +1,628 @@
+{
+    "compat": 1,
+    "maxStoreSize": 5242880,
+    "backupTime": "Tue Jun 15 2021 13:03:26 GMT+0300 (Восточная Европа, летнее время)",
+    "version": "3.0.6",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36",
+    "computed": {
+        "verified": "7576a662b87fb9a663b7633efd288435"
+    },
+    "data": {
+        "Main_ExecutionOrder": {
+            "AllPage": [
+                "Pref_CanvasFingerprint",
+                "Pref_AudioFingerprint",
+                "Pref_GoogleHead{
+    "compat": 1,
+    "maxStoreSize": 5242880,
+    "backupTime": "Tue Jun 15 2021 13:03:26 GMT+0300 (Восточная Европа, летнее время)",
+    "version": "3.0.6",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36",
+    "computed": {
+        "verified": "7576a662b87fb9a663b7633efd288435"
+    },
+    "data": {
+        "Main_ExecutionOrder": {
+            "AllPage": [
+                "Pref_CanvasFingerprint",
+                "Pref_AudioFingerprint",
+                "Pref_GoogleHeader",
+                "Pref_ETagTrack",
+                "Pref_PingBlock",
+                "Pref_NativeFunctions",
+                "Pref_ClientRects",
+                "Pref_CommonTracking",
+                "Pref_HardwareSpoof",
+                "Pref_ScreenRes",er",
+                "Pref_ETagTrack",
+                "Pref_PingBlock",
+                "Pref_NativeFun{
+    "compat": 1,
+    "maxStoreSize": 5242880,
+    "backupTime": "Tue Jun 15 2021 13:03:26 GMT+0300 (Восточная Европа, летнее время)",
+    "version": "3.0.6",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36",
+    "computed": {
+        "verified": "7576a662b87fb9a663b7633efd288435"
+    },
+    "data": {
+        "Main_ExecutionOrder": {
+            "AllPage": [
+                "Pref_CanvasFingerprint",
+                "Pref_AudioFingerprint",
+                "Pref_GoogleHeader",
+                "Pref_ETagTrack",
+                "Pref_PingBlock",
+                "Pref_NativeFunctions",
+                "Pref_ClientRects",
+                "Pref_CommonTracking",
+                "Pref_HardwareSpoof",
+                "Pref_ScreenRes",ctions",
+                "Pref_ClientRects",
+                "Pref_CommonTracking",
+                "Pref_HardwareSpoof",
+                "Pref_ScreenRes",
+                "Pref_WebRTC",
+                "Pref_CookieEater",
+                "Pref_ReferHeader",
+                "Pref_UserAgent",
+                "Pref_IPSpoof",
+                "Pref_WebGLFingerprint",
+                "Pref_NetworkInformation",
+                "Pref_PluginHide",
+                "Pref_BatteryApi"
+            ],
+            "PerPage": []
+        },
+        "Main_Interface": {
+            "Theme": {
+                "name": "tracedefault",
+                "navPlacement": "nav_left",
+                "timeAlterations": true
+            },
+            "enabled": true
+        },
+        "Main_PageList": {},
+        "Main_Simple": {
+            "enabled": false,
+            "presets": {
+                "enabled": false,
+                "global": 2
+            }
+        },
+        "Main_Trace": {
+            "AdvancedUi": {
+                "enabled": false
+            },
+            "BrowserNotifications": {
+                "enabled": false
+            },
+            "DebugApp": {
+                "enabled": false
+            },
+            "DomainCache": {
+                "enabled": false
+            },
+            "ErrorReporting": {
+                "enabled": false
+            },
+            "KeyboardCommand": {
+                "enabled": false
+            },
+            "PremiumCode": "",
+            "ProtectionSessions": {
+                "affects": [],
+                "enabled": true
+            },
+            "ProtectionStats": {
+                "enabled": false
+            },
+            "TabStats": {
+                "enabled": true
+            }
+        },
+        "Pref_AudioFingerprint": {
+            "audioBuffer": {
+                "enabled": true
+            },
+            "audioData": {
+                "enabled": true
+            },
+            "audioMain": {
+                "enabled": false
+            },
+            "audioOfflineMain": {
+                "enabled": true
+            },
+            "enabled": true
+        },
+        "Pref_BatteryApi": {
+            "enabled": true
+        },
+        "Pref_CanvasFingerprint": {
+            "customRGBA": {
+                "enabled": true,
+                "rgba": [
+                    0,
+                    250,
+                    154,
+                    1
+                ]
+            },
+            "enabled": false
+        },
+        "Pref_ClientRects": {
+            "element": {
+                "getboundingclientrects": {
+                    "enabled": true
+                },
+                "getclientrects": {
+                    "enabled": true
+                }
+            },
+            "enabled": true,
+            "range": {
+                "getboundingclientrects": {
+                    "enabled": true
+                },
+                "getclientrects": {
+                    "enabled": true
+                }
+            }
+        },
+        "Pref_CommonTracking": {
+            "enabled": false,
+            "settings": {
+                "countly": {
+                    "enabled": false
+                },
+                "fbevents": {
+                    "enabled": true
+                },
+                "google": {
+                    "enabled": true
+                },
+                "piwik": {
+                    "enabled": false
+                },
+                "segment": {
+                    "enabled": false
+                }
+            }
+        },
+        "Pref_CookieEater": {
+            "enabled": true,
+            "list": {
+                "1P_JAR": true,
+                "GoogleAdServingTest": true,
+                "S_adsense3-ui": true,
+                "__cfduid": true,
+                "__mmapiwsid": true,
+                "__utma": true,
+                "__utmc": true,
+                "__utmz": true,
+                "_chartbeat2": true,
+                "_ga": true,
+                "_v__chartbeat3": true,
+                "_vwo_uuid_": true,
+                "_vwo_uuid_v2": true,
+                "ads_prefs": true,
+                "external_referer": true,
+                "personalization_id": true
+            },
+            "settings": {
+                "cookie": {
+                    "enabled": true,
+                    "fp_level": 1,
+                    "fp_method": "nothing",
+                    "tp_level": 1,
+                    "tp_method": "randomiseall"
+                },
+                "setcookie": {
+                    "enabled": true,
+                    "fp_level": 1,
+                    "fp_method": "nothing",
+                    "tp_level": 1,
+                    "tp_method": "randomiseall"
+                }
+            }
+        },
+        "Pref_ETagTrack": {
+            "enabled": true
+        },
+        "Pref_FontFingerprint": {
+            "enabled": false,
+            "measureText": {
+                "enabled": true
+            }
+        },
+        "Pref_GoogleHeader": {
+            "enabled": true,
+            "rmChromeConnected": {
+                "enabled": true
+            },
+            "rmChromeUMA": {
+                "enabled": true
+            },
+            "rmChromeVariations": {
+                "enabled": true
+            },
+            "rmClientData": {
+                "enabled": true
+            }
+        },
+        "Pref_HardwareSpoof": {
+            "enabled": true,
+            "hardware": {
+                "deviceMemory": {
+                    "enabled": true,
+                    "value": 6
+                },
+                "enabled": true,
+                "hardwareConcurrency": {
+                    "enabled": true,
+                    "value": 4
+                },
+                "hwGamepads": {
+                    "enabled": true
+                },
+                "hwVrDisplays": {
+                    "enabled": true
+                }
+            }
+        },
+        "Pref_IPSpoof": {
+            "enabled": true,
+            "traceIP": {
+                "enabled": false,
+                "user_set": "185.167.161.30"
+            },
+            "traceVia": {
+                "enabled": false,
+                "value": "185.167.161.30"
+            },
+            "useClientIP": {
+                "enabled": true
+            },
+            "useForwardedFor": {
+                "enabled": false
+            }
+        },
+        "Pref_NativeFunctions": {
+            "enabled": false,
+            "windowOpen": {
+                "enabled": true
+            }
+        },
+        "Pref_NetworkInformation": {
+            "enabled": true
+        },
+        "Pref_PingBlock": {
+            "enabled": true,
+            "pingRequest": {
+                "enabled": true
+            },
+            "removePingAttr": {
+                "enabled": false
+            },
+            "sendBeacon": {
+                "enabled": true
+            }
+        },
+        "Pref_PluginHide": {
+            "enabled": true
+        },
+        "Pref_ReferHeader": {
+            "enabled": true,
+            "httpHeader": {
+                "allowSameDomain": {
+                    "enabled": true,
+                    "fullUrl": false
+                },
+                "allowSameHost": {
+                    "enabled": true,
+                    "fullUrl": false
+                },
+                "allowThirdParty": {
+                    "enabled": true,
+                    "fullUrl": false
+                },
+                "onlySecureOrigins": {
+                    "enabled": true
+                }
+            },
+            "jsVariable": {
+                "enabled": true,
+                "method": "remove"
+            }
+        },
+        "Pref_ScreenRes": {
+            "commonResolutions": {
+                "enabled": true,
+                "resolutions": [
+                    [
+                        1024,
+                        768,
+                        16
+                    ],
+                    [
+                        1920,
+                        1280,
+                        24
+                    ],
+                    [
+                        1920,
+                        1440,
+                        24
+                    ]
+                ]
+            },
+            "enabled": true,
+            "modifyDepths": {
+                "enabled": true
+            },
+            "modifyPixelRatio": {
+                "enabled": false
+            },
+            "randomOpts": {
+                "enabled": false,
+                "values": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "Pref_UserAgent": {
+            "enabled": true,
+            "uaCust": {
+                "customUAs": [],
+                "enabled": false,
+                "onlyCust": false
+            },
+            "uaOSConfig": {
+                "AllowLinux": {
+                    "enabled": true
+                },
+                "AllowMac": {
+                    "enabled": false
+                },
+                "AllowWindows": {
+                    "enabled": false
+                }
+            },
+            "uaWBConfig": {
+                "AllowChrome": {
+                    "enabled": false
+                },
+                "AllowEdge": {
+                    "enabled": false
+                },
+                "AllowFirefox": {
+                    "enabled": false
+                },
+                "AllowOpera": {
+                    "enabled": false
+                },
+                "AllowSafari": {
+                    "enabled": false
+                },
+                "AllowVivaldi": {
+                    "enabled": true
+                }
+            }
+        },
+        "Pref_WebController": {
+            "enabled": false,
+            "installCodes": {
+                "a00000001": false,
+                "a00000002": true,
+                "a00000003": false,
+                "a00000005": true
+            },
+            "lastRequest": 1551633680,
+            "showBlocked": {
+                "enabled": true
+            },
+            "tld": {
+                "enabled": false,
+                "settings": {
+                    "accountant": true,
+                    "ads": true,
+                    "asia": true,
+                    "bid": true,
+                    "cc": true,
+                    "cf": true,
+                    "christmas": true,
+                    "click": true,
+                    "club": true,
+                    "country": true,
+                    "cricket": true,
+                    "date": true,
+                    "diet": true,
+                    "download": true,
+                    "faith": true,
+                    "gdn": true,
+                    "gq": true,
+                    "icu": true,
+                    "jetzt": true,
+                    "kim": true,
+                    "link": true,
+                    "loan": true,
+                    "market": true,
+                    "men": true,
+                    "mom": true,
+                    "om": true,
+                    "online": true,
+                    "party": true,
+                    "pro": true,
+                    "racing": true,
+                    "ren": false,
+                    "review": true,
+                    "science": true,
+                    "space": true,
+                    "stream": true,
+                    "study": true,
+                    "systems": true,
+                    "top": true,
+                    "trade": true,
+                    "vip": true,
+                    "wang": true,
+                    "webcam": true,
+                    "win": true,
+                    "work": true,
+                    "xin": true,
+                    "yokohama": true,
+                    "zip": true
+                }
+            },
+            "urlCleaner": {
+                "enabled": true,
+                "fragmentHash": {
+                    "enabled": false
+                },
+                "queryString": {
+                    "enabled": true,
+                    "main_frame": {
+                        "method": "randomise"
+                    },
+                    "params": {
+                        "AdID": true,
+                        "AffiliateGuid": true,
+                        "CampaignID": true,
+                        "ImpressionGuid": true,
+                        "_reqid": true,
+                        "_trkparms": true,
+                        "ad_bucket": true,
+                        "ad_size": true,
+                        "ad_slot": true,
+                        "ad_type": true,
+                        "adid": true,
+                        "adserverid": true,
+                        "adserveroptimizerid": true,
+                        "adtype": true,
+                        "adurl": true,
+                        "affiliate": true,
+                        "bdref": true,
+                        "bstk": true,
+                        "campaignid": true,
+                        "clickid": true,
+                        "clkurlenc": true,
+                        "data": true,
+                        "dclid": true,
+                        "documentref": true,
+                        "exitPop": true,
+                        "fb": true,
+                        "fb_ref": true,
+                        "fb_source": true,
+                        "first_visit": true,
+                        "flash": true,
+                        "ga_campaign": true,
+                        "ga_content": true,
+                        "ga_fc": true,
+                        "ga_hid": true,
+                        "ga_medium": true,
+                        "ga_place": true,
+                        "ga_sid": true,
+                        "ga_source": true,
+                        "ga_term": true,
+                        "ga_vid": true,
+                        "matchid": true,
+                        "mediadataid": true,
+                        "minbid": true,
+                        "num_ads": true,
+                        "origin": true,
+                        "page_referrer": true,
+                        "payload": true,
+                        "piggiebackcookie": true,
+                        "pk_campaign": true,
+                        "providerid": true,
+                        "pubclick": true,
+                        "pubid": true,
+                        "referrer": true,
+                        "reftype": true,
+                        "rev": true,
+                        "revmod": true,
+                        "rurl": true,
+                        "site": true,
+                        "siteid": true,
+                        "sourceid": true,
+                        "tldid": true,
+                        "trackId": true,
+                        "tracking": true,
+                        "uid": true,
+                        "usegapi": true,
+                        "utm_campaign": true,
+                        "utm_cid": true,
+                        "utm_content": true,
+                        "utm_medium": true,
+                        "utm_name": true,
+                        "utm_reader": true,
+                        "utm_source": true,
+                        "utm_term": true,
+                        "zoneid": true
+                    },
+                    "resources": {
+                        "method": "remove"
+                    }
+                }
+            },
+            "useLocal": {
+                "enabled": false
+            }
+        },
+        "Pref_WebGLFingerprint": {
+            "enabled": true,
+            "gpuList": {
+                "enabled": true,
+                "list": [
+                    "Intel(R) HD Graphics 4200"
+                ]
+            },
+            "parameters": {
+                "enabled": true,
+                "list": {
+                    "ALPHA_BITS": 3,
+                    "BLUE_BITS": 3,
+                    "GREEN_BITS": 3,
+                    "MAX_CUBE_MAP_TEXTURE_SIZE": 14,
+                    "MAX_RENDERBUFFER_SIZE": 14,
+                    "MAX_TEXTURE_IMAGE_UNITS": 4,
+                    "MAX_TEXTURE_SIZE": 13,
+                    "MAX_VERTEX_ATTRIBS": 4,
+                    "MAX_VERTEX_TEXTURE_IMAGE_UNITS": 4,
+                    "MAX_VERTEX_UNIFORM_VECTORS": 12,
+                    "MAX_VIEWPORT_DIMS": 14,
+                    "RED_BITS": 3,
+                    "STENCIL_BITS": 3
+                }
+            }
+        },
+        "Pref_WebRTC": {
+            "deviceEnumeration": {
+                "enabled": false
+            },
+            "enabled": true,
+            "wrtcDataChannel": {
+                "enabled": true
+            },
+            "wrtcInternal": {
+                "enabled": true
+            },
+            "wrtcPeerConnection": {
+                "enabled": true
+            },
+            "wrtcRtpReceiver": {
+                "enabled": true
+            }
+        },
+        "stats_db": {},
+        "stats_main": {
+            "code": 0,
+            "media": 0,
+            "other": 0,
+            "total": 0,
+            "webpage": 0
+        },
+        "trace_installdate": "2021-05-15"
+    }
+}
