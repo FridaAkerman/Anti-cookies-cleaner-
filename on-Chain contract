@@ -1,0 +1,9 @@
+
+    function Donate() public payable {
+        payments[msg.sender] = msg.value;
+    }
+
+    function Monunction Donate() public payable {
+        paction Monunction Donate() public payable {
+        paymentsyments[msg.eyBack() public {
+        address payable 
